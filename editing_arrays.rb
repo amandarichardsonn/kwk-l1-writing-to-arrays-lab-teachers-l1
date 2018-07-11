@@ -18,7 +18,7 @@ def add_colors
   rainbow_colors = [0, 1, 2]
   puts rainbow_colors[3] = "green"
   puts rainbow_colors[4] = "blue"
-puts rainbow_colors
+return rainbow_colors
   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
 end
 puts add_colors
