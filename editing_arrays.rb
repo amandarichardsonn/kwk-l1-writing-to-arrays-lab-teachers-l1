@@ -15,7 +15,7 @@ end
 puts change_rainbow_colors
 
 def add_colors
-  rainbow_colors = [0, 1, 2, 3, 4]
+  # rainbow_colors = [0, 1, 2, 3, 4]
   puts rainbow_colors[3] = "green"
   puts rainbow_colors[4] = "blue"
 return rainbow_colors
